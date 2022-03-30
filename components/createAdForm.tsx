@@ -61,7 +61,7 @@ const CreateAdForm = () => {
                             <h1 className="text-5xl font-bold text-lime-700">Annonce</h1>
                         </div>
                         <div className="">
-                            <h1>Avce Git</h1>
+                            <h1>Avce GitHUb</h1>
                         </div>
 
                         <div className="pb-2">
